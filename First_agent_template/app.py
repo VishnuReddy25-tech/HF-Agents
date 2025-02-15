@@ -7,7 +7,7 @@ from tools.final_answer import FinalAnswerTool
 
 from Gradio_UI import GradioUI
 import os
-os.environ["HF_TOKEN"] = "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"
+os.environ["HF_TOKEN"] = ""
 
 # Below is an example of a tool that does nothing. Amaze us with your creativity!
 @tool
